@@ -1,6 +1,6 @@
 # 流媒体开发工具集 #
 
-各种流媒体开发工具集合，帮助开发者更好地进行问题的分析和解决；
+各种流媒体开发免费工具集合，帮助开发者更好地进行问题的分析和解决；
 
 - [EasyPlayer播放器](#easyplayer)
     - [EasyPlayer-RTSP播放器](#easyplayer-rtsp)
