@@ -26,9 +26,15 @@ EasyPlayer RTSP专用播放器是一款精炼、高效、稳定的RTSP流媒体�
 
 - Windows版下载：
 
-- Android版本下载：
+[https://github.com/EasyDSS/EasyPlayer-RTSP-Win/releases/tag/v2.3.19.0106](https://github.com/EasyDSS/EasyPlayer-RTSP-Win/releases/tag/v2.3.19.0106 "EasyPlayer-RTSP-Win")
 
-- iOS版本下载：
+- Android版本下载：[https://fir.im/EasyRTSPlayer](https://fir.im/EasyRTSPlayer)
+
+![EasyPlayer Android](http://www.easydarwin.org/github/images/easyplayer/firimeasyrtsplayerandroid201801.png)
+
+- iOS版本下载：[https://itunes.apple.com/cn/app/easy-player/id1158675416?mt=8](https://itunes.apple.com/cn/app/easy-player/id1158675416?mt=8)
+
+![EasyPlayer iOS](http://www.easydarwin.org/github/images/easyplayer/easyplayer20171225.png)
 
 
 <a name="easyplayer-rtmp"></a>
